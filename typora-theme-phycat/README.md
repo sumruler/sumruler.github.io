@@ -11,17 +11,17 @@
 | 亮色主题 | [Cheey（樱桃红）](https://sumruler.github.io/typora-theme-phycat/demo-cherry.html)、[Caramel（焦糖橙）](https://sumruler.github.io/typora-theme-phycat/demo-caramel.html)、[Forest（森绿）](https://sumruler.github.io/typora-theme-phycat/demo-forest.html)、[Mint（薄荷青）](https://sumruler.github.io/typora-theme-phycat/demo-mint.html)、[Sky（天蓝）](https://sumruler.github.io/typora-theme-phycat/demo-sky.html)、[Prussian（普鲁士蓝）](https://sumruler.github.io/typora-theme-phycat/demo-prussian.html)、[Sakura（樱花粉）](https://sumruler.github.io/typora-theme-phycat/demo-sakura.html)[Mauve（淡紫）](https://sumruler.github.io/typora-theme-phycat/demo-Mauve.html) |
 | 暗色主题 | [Dark](https://sumruler.github.io/typora-theme-phycat/demo-dark.html) |
 
-![image-20251224115955956](D:\WorkTop2\typora-theme-phycat\assets\image-20251224115955956.png)
+![image-20251224115955956](assets\image-20251224115955956.png)
 
-![image-20251224120012815](D:\WorkTop2\typora-theme-phycat\assets\image-20251224120012815.png)
+![image-20251224120012815](assets\image-20251224120012815.png)
 
-![image-20251224120026467](D:\WorkTop2\typora-theme-phycat\assets\image-20251224120026467.png)
+![image-20251224120026467](assets\image-20251224120026467.png)
 
-![image-20251224120056979](D:\WorkTop2\typora-theme-phycat\assets\image-20251224120056979.png)
+![image-20251224120056979](assets\image-20251224120056979.png)
 
-![image-20251224120115544](D:\WorkTop2\typora-theme-phycat\assets\image-20251224120115544.png)
+![image-20251224120115544](assets\image-20251224120115544.png)
 
-![image-20251224120135916](D:\WorkTop2\typora-theme-phycat\assets\image-20251224120135916.png)
+![image-20251224120135916](assets\image-20251224120135916.png)
 
 ## 设计语言
 
@@ -99,4 +99,4 @@
 
 如果你喜欢这套主题，可以选择打赏支持。不胜感激！
 
-<img src="D:\WorkTop2\typora-theme-phycat\assets\image-20251224165551114.png" alt="image-20251224165551114" style="zoom:33%;" /><img src="D:\WorkTop2\typora-theme-phycat\assets\image-20251224165606988.png" alt="image-20251224165606988" style="zoom:33%;" />
+<img src="assets\image-20251224165551114.png" alt="image-20251224165551114" style="zoom:33%;" /><img src="assets\image-20251224165606988.png" alt="image-20251224165606988" style="zoom:33%;" />
