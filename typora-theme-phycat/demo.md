@@ -2,10 +2,10 @@
 
 # ☕ 咖啡的炼金术：一则关于专注与偶然的样式测试文档
 
-| 主题系列 | 主题链接                                                     |
-| -------- | :----------------------------------------------------------- |
-| 亮色主题 | [Cheey（樱桃红）](https://sumruler.github.io/typora-theme-phycat/demo-cherry.html)、[Caramel（焦糖橙）](https://sumruler.github.io/typora-theme-phycat/demo-caramel.html)、[Forest（森绿）](https://sumruler.github.io/typora-theme-phycat/demo-forest.html)、[Mint（薄荷青）](https://sumruler.github.io/typora-theme-phycat/demo-mint.html)、[Sky（天蓝）](https://sumruler.github.io/typora-theme-phycat/demo-sky.html)、[Prussian（普鲁士蓝）](https://sumruler.github.io/typora-theme-phycat/demo-prussian.html)、[Sakura（樱花粉）](https://sumruler.github.io/typora-theme-phycat/demo-sakura.html)[Mauve（淡紫）](https://sumruler.github.io/typora-theme-phycat/demo-mauve.html) |
-| 暗色主题 | [Dark](https://sumruler.github.io/typora-theme-phycat/demo-dark.html) |
+| 主题系列            | 主题链接                                                     |
+| ------------------- | :----------------------------------------------------------- |
+| 亮色系主题**Color** | [Cheey（樱桃红）](https://sumruler.github.io/typora-theme-phycat/demo-cherry.html)、[Caramel（焦糖橙）](https://sumruler.github.io/typora-theme-phycat/demo-caramel.html)、[Forest（森绿）](https://sumruler.github.io/typora-theme-phycat/demo-forest.html)、[Mint（薄荷青）](https://sumruler.github.io/typora-theme-phycat/demo-mint.html)、[Sky（天蓝）](https://sumruler.github.io/typora-theme-phycat/demo-sky.html)、[Prussian（普鲁士蓝）](https://sumruler.github.io/typora-theme-phycat/demo-prussian.html)、[Sakura（樱花粉）](https://sumruler.github.io/typora-theme-phycat/demo-sakura.html)[Mauve（淡紫）](https://sumruler.github.io/typora-theme-phycat/demo-mauve.html) |
+| 暗色系主题**Neon**  | [Vampire(吸血鬼)](https://sumruler.github.io/typora-theme-phycat/demo-vampire.html)、[Radiation（辐射）](https://sumruler.github.io/typora-theme-phycat/demo-radiation.html)、[Abyss（深渊）](https://sumruler.github.io/typora-theme-phycat/demo-abyss.html) |
 
 隆重介绍物理猫Phycat主题色工坊，点击>>[Phycat Theme Studio](https://sumruler.github.io/typora-theme-phycat/phycat-theme-studio.html)<<一键生成你的专属主题配色！
 
@@ -26,7 +26,7 @@
     *   *处理法*：水洗（清澈）、日晒（醇厚）、蜜处理（甜美）。
 2.  **精确的变量**：咖啡是科学与艺术的交界点。
     *   研磨度（从粗盐到面粉）
-    *   水温（92°C - 96°C 的黄金区间）
+    *   水温（92°C - 96°C 的黄金区间扽黄`okoko`我仍三
     *   水粉比（例如 **1:15**）
     *   时间（萃取不足与过萃的拉锯战）
 
@@ -66,7 +66,7 @@ graph LR
 | 冲煮方法                  | 所需器材           | 风味特点                     | 难度系数 | 适合场景               |
 | :------------------------ | :----------------- | :--------------------------- | :------- | :--------------------- |
 | **手冲 (Pour-Over)**      | 滤杯、滤纸、手冲壶 | 干净、层次分明、突出风味细节 | ⭐⭐⭐⭐     | 独自品味、追求仪式感   |
-| **法压壶 (French Press)** | 法压壶             | 饱满、醇厚、带有油脂感       | ⭐⭐       | 多人分享、喜爱浓郁口感 |
+| **法压壶 (French Press)** | `法压壶`           | 饱满、醇厚、带有油脂感       | ⭐⭐       | 多人分享、喜爱浓郁口感 |
 | **爱乐压 (AeroPress)**    | 爱乐压、滤纸       | 口感干净且浓郁、玩法多变     | ⭐⭐⭐      | 旅行、办公室、快速出品 |
 
 ## 第四部分：萃取的代码隐喻
@@ -115,6 +115,8 @@ print(result)
 *   **它是专注的锚点**：在研磨、注水的几分钟里，世界被简化为水流的弧线与时间的流逝。
 *   **它是连接的桥梁**：“一起喝杯咖啡”是现代社会中一种温和的社交契约。
 *   **它是灵感的催化剂**：多少思绪在咖啡因的轻抚下变得清晰，多少对话在杯沿的热气中得以深入。
+
+<q class="page-break"/>
 
 ---
 
